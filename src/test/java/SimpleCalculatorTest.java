@@ -54,5 +54,4 @@ public class SimpleCalculatorTest {
         int rs = calculator.reminder(12,3);
         assertEquals(0,rs);
     }
-
 }
